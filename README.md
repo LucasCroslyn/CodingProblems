@@ -1,0 +1,1 @@
+This repo is for solutions/work on various problems on different websites and various other sources. Full projects, even if connected to something from one of these sources may not be included in this repo if big/important enough to potentially be on my portfolio.
