@@ -5,6 +5,7 @@ Link: https://discuss.codecademy.com/t/data-science-independent-project-2-explor
 # Database
 The database is the example SQLlite database found here: https://www.sqlitetutorial.net/sqlite-sample-database/
 
+The database has data dealing with a music store company and includes information about the music, the employees, the customers, and the orders.
 
 Through some investigation, some tracks show up with multiple TrackId's and have the same name. Despite this potential issue, these aren't fully duplicate values as many other values are also different between them. Since many values are different, these tracks are treated as fully separate entities throughout the analysis. 
 ## Entity Relationship Diagram
