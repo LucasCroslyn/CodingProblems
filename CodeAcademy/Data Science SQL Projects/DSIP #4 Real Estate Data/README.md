@@ -3,7 +3,7 @@ This project is hosted on the CodeAcademy forums as an independant project to ga
 Link: https://discuss.codecademy.com/t/data-science-independent-project-4-home-value-trends/419948
 
 # Database
-The database is the example database downloaded through the project link above.
+The database is the example database downloaded through the project link above. It is not provided in this repo directly as the file is too big.
 
 The database has information about real estate investments, specifically 'data on median estimated values of single family homes by zip codes from the past two decades'
 
