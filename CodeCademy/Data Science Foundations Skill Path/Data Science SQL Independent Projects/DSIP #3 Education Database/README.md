@@ -1,5 +1,5 @@
 # Introduction
-This project is hosted on the CodeAcademy forums as an independant project to gain further understanding of working with fairly basic SQL.
+This project is hosted on the CodeCademy forums as an independant project to gain further understanding of working with fairly basic SQL.
 Link: https://discuss.codecademy.com/t/data-science-independent-project-3-education-census-data/419947
 
 # Database
