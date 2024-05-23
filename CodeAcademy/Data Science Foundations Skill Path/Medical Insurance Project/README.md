@@ -2,4 +2,4 @@ This is the first project for the Python Fundamentals for Data Science (Part I) 
 
 While this project (and module) is extremely basic to other things I've done, it is here for completionist sake.
 
-This project does have the [solutions](Python Syntax Medical Insurance Project_Solution.ipynb) to make sure my [work](Python Syntax Medical Insurance Project.ipynb) is done correctly
+This project does have the [solutions](Medical_Insurance_Project_Solution.ipynb) to make sure my [work](Medical_Insurance_Project.ipynb) is done correctly
