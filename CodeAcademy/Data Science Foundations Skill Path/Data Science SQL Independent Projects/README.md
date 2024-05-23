@@ -1,0 +1,1 @@
+These projects do not have any correct solutions given (hense the independent part of the name). The data often did not have any full descriptions on what each variable represented fully. All of the projects were done in Jupyter notebooks with a mix of Python and SQL (Python to make the databases from csv files and SQL for queries on them).
