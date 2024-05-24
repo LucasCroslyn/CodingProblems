@@ -6,3 +6,4 @@ The projects are small scale ways to reaffirm certain skills. They are pretty ba
 1. [Python Syntax](Python_Syntax_Medical_Insurance.ipynb)
 2. [Python Functions](Python_Functions_Medical_Insurance.ipynb)
 3. [Python Control Flow](Python_Control_Flow_Medical_Insurance.ipynb)
+4. [Python Lists](Python_Lists_Medical_Insurance.ipynb)
