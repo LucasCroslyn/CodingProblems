@@ -8,3 +8,4 @@ The projects are small scale ways to reaffirm certain skills. They are pretty ba
 3. [Python Control Flow](Python_Control_Flow_Medical_Insurance.ipynb)
 4. [Python Lists](Python_Lists_Medical_Insurance.ipynb)
 5. [Working with Python Lists](Working_with_Python_Lists_Medical_Insurance.ipynb)
+6. [Python Loops](Python_Loops_Medical_Insurance.ipynb)
