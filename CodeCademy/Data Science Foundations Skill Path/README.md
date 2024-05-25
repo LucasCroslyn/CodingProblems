@@ -6,4 +6,3 @@ Data Science is one of the most in-demand skillsets that companies are constantl
 ### Project Orders
 1. [SQL Independent Projects](Data%20Science%20SQL%20Independent%20Projects)
 2. [Medical Insurance Projects](Medical%20Insurance%20Projects)
-3. [Frida Project](frida_project.ipynb)
