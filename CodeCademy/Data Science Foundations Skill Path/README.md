@@ -12,6 +12,8 @@ Data Science is one of the most in-demand skillsets that companies are constantl
 
     These basic projects a separated based on Python topics (loops, functions, strings, etc.) and framed around the same data theme (medical insurance). Each are very rudamentary in what they involve and are here for completionist sake.  
 
-3. [Basic Cryptography Project](coded_correspondence.ipynb)
+3. [Basic Cryptography Project](Coded_Correspondence.ipynb)
 
     A project exploring Python strings in a slightly more complex nature. The project involves creating functions for encoding and decoding the Caesar and Vigenère Ciphers.
+
+4. [Hurricane Analysis Project](Hurricane_Analysis.ipynb)
