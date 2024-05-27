@@ -17,3 +17,5 @@ Data Science is one of the most in-demand skillsets that companies are constantl
     A project exploring Python strings in a slightly more complex nature. The project involves creating functions for encoding and decoding the Caesar and Vigenère Ciphers.
 
 4. [Hurricane Analysis Project](Hurricane_Analysis.ipynb)
+
+    A project that mainly uses dictionaries to interact and analyze given hurricane data. The data is hardcoded within the project file so no interacting with dataset files or APIs.  
