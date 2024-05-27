@@ -1,6 +1,6 @@
 This collection of projects are from the CodeCademy Data Science Foundations skill path in the Python Fundamentals for Data Science modules (https://www.codecademy.com/enrolled/paths/data-science-foundations).
 
-The projects are small scale ways to reaffirm certain skills. They are pretty basic and here for completionist sake. The projects sort of build upon each other but will be in separate files for organization sake. 
+The projects are small scale ways to reaffirm certain skills. They are pretty basic and here for completionist sake. The projects sort of build upon each other but will be in separate files for organization sake. Each one has a title that says what skill it touches upon the most. 
 
 ### Order of Projects
 1. [Python Syntax](Python_Syntax_Medical_Insurance.ipynb)
