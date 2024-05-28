@@ -8,7 +8,7 @@ Data Science is one of the most in-demand skillsets that companies are constantl
 
     These projects are for learning basic SQL queries on some data. No data was created or added to the tables, only table creation was converting csv files to the correct format. 
 
-2. [Medical Insurance Projects](Medical%20Insurance%20Projects)
+2. [Medical Insurance Mini Projects](Medical%20Insurance%20Projects)
 
     These basic projects a separated based on Python topics (loops, functions, strings, etc.) and framed around the same data theme (medical insurance). Each are very rudamentary in what they involve and are here for completionist sake.  
 
@@ -23,3 +23,7 @@ Data Science is one of the most in-demand skillsets that companies are constantl
 5. [Linear Regression](Reggie_Linear_Regression.ipynb)
    
    A project that explores linear regression in a very basic manner. It does not actually involve using data and linear regression in the traditional sense (using math to solve for m/b/x/y) but moreso using it to explore loops and lists. Pretty basic of a project but here for completionist sake.
+
+6. [Medical Insurance Full Project](Medical%20Insurance%20Full%20Project)
+
+    An expansion on the Medical Insurance Mini Projects, this one is less guided and more open-ended for what to do. Combines various aspects of Python instead of being focused on a certain one like the mini projects. This project has a full dataset to work with and analyze as well, which the mini ones do not.
