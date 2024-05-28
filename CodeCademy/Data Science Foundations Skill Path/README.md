@@ -22,4 +22,4 @@ Data Science is one of the most in-demand skillsets that companies are constantl
 
 5. [Linear Regression](Reggie_Linear_Regression.ipynb)
    
-   A project that explores creating a linear regression function to find a line of best fit given some data.
+   A project that explores linear regression in a very basic manner. It does not actually involve using data and linear regression in the traditional sense (using math to solve for m/b/x/y) but moreso using it to explore loops and lists. Pretty basic of a project but here for completionist sake.
