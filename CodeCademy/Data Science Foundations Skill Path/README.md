@@ -19,3 +19,7 @@ Data Science is one of the most in-demand skillsets that companies are constantl
 4. [Hurricane Analysis Project](Hurricane_Analysis.ipynb)
 
     A project that mainly uses dictionaries to interact and analyze given hurricane data. The data is hardcoded within the project file so no interacting with dataset files or APIs.  
+
+5. [Linear Regression](Reggie_Linear_Regression.ipynb)
+   
+   A project that explores creating a linear regression function to find a line of best fit given some data.
