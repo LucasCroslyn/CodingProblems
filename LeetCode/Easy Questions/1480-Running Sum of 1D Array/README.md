@@ -6,6 +6,8 @@ Given an array <code>nums</code>. We define a running sum of an array as <code>r
 
 Return the running sum of <code>nums</code>.
 
+### Examples
+
 <p><strong>Example 1:</strong></p>
 
 <pre><strong>Input: nums = [1,2,3,4]</strong>
@@ -26,7 +28,8 @@ Return the running sum of <code>nums</code>.
 <strong>Output: [3,4,6,16,17]</strong>
 </pre>
 
-<p><strong>Constraints:</strong></p>
+### Constraints
+
 <ul>
 <li><code>1 <= nums.length <= 1000</code></li>
 <li><code>-10^6 <= nums[i] <= 10^6</code></li>
