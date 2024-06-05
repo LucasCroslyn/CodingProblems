@@ -29,7 +29,6 @@ Each letter in <code>magazine</code> can only be used once in <code>ransomNote</
 ### Constraints
 
 <ul>
-	<li>1 <= ransomNote.length</li>
-	<li>magazine.length <= 10^5</li>
+	<li>1 <= ransomNote.length, magazine.length <= 10^5</li>
 	<li>ransomNote and magazine consist of lowercase English letters.</li>
 </ul>
