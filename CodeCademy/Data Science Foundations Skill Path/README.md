@@ -27,3 +27,7 @@ Data Science is one of the most in-demand skillsets that companies are constantl
 6. [Medical Insurance Full Project](Medical%20Insurance%20Full%20Project)
 
     An expansion on the Medical Insurance Mini Projects, this one is less guided and more open-ended for what to do. Combines various aspects of Python instead of being focused on a certain one like the mini projects. This project has a full dataset to work with and analyze as well, which the mini ones do not.
+
+7. [Page Visits Funnel Project](Page_Visits_Funnel_Project)
+   
+   A project that involves utilizing multiple data files and how to use data between multiple data frames. Nothing too complex, mainly just exploring joins and some simple calculations.
