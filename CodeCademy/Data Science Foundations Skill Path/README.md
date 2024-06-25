@@ -24,10 +24,21 @@ Data Science is one of the most in-demand skillsets that companies are constantl
    
    A project that explores linear regression in a very basic manner. It does not actually involve using data and linear regression in the traditional sense (using math to solve for m/b/x/y) but moreso using it to explore loops and lists. Pretty basic of a project but here for completionist sake.
 
-6. [Medical Insurance Full Project](Medical%20Insurance%20Full%20Project)
-
-    An expansion on the Medical Insurance Mini Projects, this one is less guided and more open-ended for what to do. Combines various aspects of Python instead of being focused on a certain one like the mini projects. This project has a full dataset to work with and analyze as well, which the mini ones do not.
-
-7. [Page Visits Funnel Project](Page_Visits_Funnel_Project)
+6. [Page Visits Funnel Project](Page_Visits_Funnel_Project)
    
    A project that involves utilizing multiple data files and how to use data between multiple data frames. Nothing too complex, mainly just exploring joins and some simple calculations.
+
+7. [Cleaning US Census Data](Cleaning_US_Census_Data)
+   
+   A project that involes reading multiple CSV files and cleaning the data within them in order to do a simple analysis. Mostly focused on the data cleaning aspect of data analysis.
+
+
+
+
+
+
+
+### Portfolio Projects
+1. [Medical Insurance Full Project](Medical%20Insurance%20Full%20Project)
+
+    An expansion on the Medical Insurance Mini Projects, this one is less guided and more open-ended for what to do. Combines various aspects of Python instead of being focused on a certain one like the mini projects. This project has a full dataset to work with and analyze as well, which the mini ones do not. 
