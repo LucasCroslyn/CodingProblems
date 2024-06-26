@@ -32,9 +32,9 @@ Data Science is one of the most in-demand skillsets that companies are constantl
    
    A project that involes reading multiple CSV files and cleaning the data within them in order to do a simple analysis. Mostly focused on the data cleaning aspect of data analysis.
 
+8. [Jeopardy Data Cleaning](This_is_Jeopardy_Project)
 
-
-
+    A project that explores cleaning some Jeopardy question/answer data. Didn't go into it as deep as I could have since I want to move onto more complex projects so just finished what was really needed and moreso guided.
 
 
 
