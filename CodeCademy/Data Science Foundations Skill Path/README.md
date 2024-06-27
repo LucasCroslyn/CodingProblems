@@ -36,6 +36,9 @@ Data Science is one of the most in-demand skillsets that companies are constantl
 
     A project that explores cleaning some Jeopardy question/answer data. Didn't go into it as deep as I could have since I want to move onto more complex projects so just finished what was really needed and moreso guided.
 
+9. [Exploratory Data Analysis: Diagnosing Diabetes](EDA_Diagnosing_Diabetes)
+
+    A simple project that is about exploring data and classifying the various variables within it. Does not really involve analysis on the data itself. Quite easy and is here for completionist sake.
 
 
 ### Portfolio Projects
